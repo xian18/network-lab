@@ -1,0 +1,9 @@
+.vs/
+**/Debug/*
+**/Release/*
+**/bin/*
+**/build/*
+**/CMakeFiles/*
+**/Test/*
+*.cmake
+Makefile
